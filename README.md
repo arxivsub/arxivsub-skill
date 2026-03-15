@@ -26,7 +26,13 @@ claude-workspace
 └── .env
 ```
 
-You can just download the workspace from this repo.
+### Quick Start
+You don’t need to create the structure manually.
+Simply download the workspace zip file from this repository and extract it. The archive already contains the correct directory layout.
+
+⚠️ Note:
+- The files .env and .claude are hidden files.
+- Make sure your system is configured to show hidden files, otherwise you may not see them after extraction.
 
 ## Step 2: Set API key
 
