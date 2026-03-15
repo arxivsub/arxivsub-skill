@@ -1,5 +1,11 @@
+English | [简体中文](README_CN.md)
+
 # arxivsub-skill
 arxivsub-skill (a Claude Code Skill) helps you find papers on arXivSub effortlessly
+
+# Demo
+
+[Watch the demo video](https://www.xiaohongshu.com/discovery/item/69b6575500000000210071b1?source=webshare&xhsshare=pc_web&xsec_token=AB4EGI1n2ItI7bd0MDv1JOFfRH1JfHkjRA--QS2hdaaAk=&xsec_source=pc_share)
 
 # API Key
 
